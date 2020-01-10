@@ -8,8 +8,8 @@
 </head>
 
 <body>
-
-  <div id="header">
+<div class="wrap">
+<div id="header">
     <!-- Верхняя часть страницы -->
     <img src="logo.gif" width="187" height="29" alt="Наш логотип" class="logo" />
     <span class="slogan">приходите к нам учиться</span>
@@ -59,6 +59,8 @@
     &copy; Супер Мега Веб-мастер, 2000 &ndash; 2015
     <!-- Нижняя часть страницы -->
   </div>
+</div>
+  
 </body>
 
 </html>
